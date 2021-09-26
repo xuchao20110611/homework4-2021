@@ -106,7 +106,7 @@ td{
 }
 
 
-table tr:nth-child(even)
+tr:nth-child(even)
 {
   background-color: #D1D1D1;
 }
